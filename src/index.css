@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sleek-bg: #0f0f12;
+  --color-sleek-header: #1c1c1e;
+  --color-sleek-sidebar: #161618;
+  --color-sleek-input: #2c2c2e;
+  --color-sleek-accent: #007AFF;
+  --color-sleek-muted: #8e8e93;
+  --color-sleek-border: #333333;
+
+  --font-sans: "Helvetica Neue", Arial, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-sleek-bg text-white antialiased;
+  }
+}
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+.sleek-slider {
+  @apply h-1 bg-sleek-border rounded-full appearance-none cursor-pointer accent-sleek-accent;
+}
+
+.sleek-btn {
+  @apply bg-sleek-input border border-[#444] text-white py-2 px-4 rounded-lg text-sm font-medium cursor-pointer transition-all hover:bg-zinc-700 active:scale-95 flex items-center justify-center gap-2;
+}
+
+.sleek-btn-primary {
+  @apply bg-sleek-accent border-sleek-accent hover:bg-blue-600;
+}
+
+.sleek-label {
+  @apply text-[11px] uppercase tracking-wider text-sleek-muted font-bold;
+}
