@@ -71,7 +71,7 @@ Dopo l’avvio, apri nel browser l’indirizzo locale mostrato nel terminale.
 ## Note
 
 Per usare correttamente la webcam, il browser potrebbe chiedere l’autorizzazione all’accesso video.  
-Se nel progetto sono previste integrazioni aggiuntive tramite variabili ambiente, controlla anche eventuali istruzioni presenti nei file di configurazione del repository.[page:1]
+Se nel progetto sono previste integrazioni aggiuntive tramite variabili ambiente, controlla anche eventuali istruzioni presenti nei file di configurazione del repository.
 
 ## A chi è dedicato
 
