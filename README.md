@@ -8,6 +8,9 @@ Prova l’app online su Vercel: [Apri Gobbo Pro](https://gobbo-pro-by-gigicogo.v
 
 L’app permette di far scorrere un testo sullo schermo e di personalizzare alcuni parametri fondamentali per la lettura, come dimensione del testo, colore e velocità di scorrimento. Inoltre consente di vedersi mentre il testo scorre, così da migliorare postura, sguardo in camera e gestione della registrazione.
 
+## Screenshot
+
+![Schermata iniziale di Gobbo Pro](./images/Gobbo.png)
 
 ## Cosa fa
 
