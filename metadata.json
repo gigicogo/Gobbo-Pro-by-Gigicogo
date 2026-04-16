@@ -1,0 +1,6 @@
+{
+  "name": "Teleprompter Pro",
+  "description": "App professionale stand-alone per la lettura di testi. Funziona senza rete.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
