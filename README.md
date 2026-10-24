@@ -87,6 +87,11 @@ Gobbo Pro è pensato soprattutto per:
 Progetto personale sviluppato per semplificare la registrazione di contenuti video e migliorare la lettura in camera.
 
 ---
+## Riuso e distribuzione
+
+Puoi scaricare e sperimentare il progetto localmente. Se desideri pubblicare una versione derivata e concedere esplicitamente ad altri i diritti di utilizzo, modifica e redistribuzione, aggiungi nel repository un file `LICENSE` con la licenza scelta dal titolare del progetto.
+
+Per proporre miglioramenti, apri una **Issue** o una **Pull request** nel repository che ospita l'applicazione. Sono particolarmente utili segnalazioni su accessibilità, chiarezza dei casi, compatibilità con i browser e nuove situazioni d'uso.
 
 ## Risorse collegate
 
@@ -95,3 +100,5 @@ Se questi materiali ti sono utili, puoi seguire anche il resto del lavoro che fa
 - **Newsletter** – https://gigicogo.substack.com - approfondimenti, casi d’uso e strumenti su AI generativa e content creation.  
 - **Articoli** – https://webeconoscenza.gigicogo.it - guide e riflessioni su Medium / blog, con esempi pratici di utilizzo delle skill.  
 - **Video e podcast** – https://www.youtube.com/@gigicogo - Guide, interviste e tutorial su IA Generativa.
+
+
