@@ -43,7 +43,7 @@ L’obiettivo è rendere la lettura più fluida e naturale, senza dover distogli
 
 ## Tecnologie usate
 
-Il progetto è realizzato come web app con stack moderno frontend. Nel repository sono presenti file tipici di un progetto basato su Vite e TypeScript, come `src/`, `package.json` e `vite.config.ts`.[page:1]
+Il progetto è realizzato come web app con stack moderno frontend. Nel repository sono presenti file tipici di un progetto basato su Vite e TypeScript, come `src/`, `package.json` e `vite.config.ts`.
 
 ## Come avviare il progetto in locale
 
@@ -87,18 +87,20 @@ Gobbo Pro è pensato soprattutto per:
 Progetto personale sviluppato per semplificare la registrazione di contenuti video e migliorare la lettura in camera.
 
 ---
-## Riuso e distribuzione
 
-Puoi scaricare e sperimentare il progetto localmente. Se desideri pubblicare una versione derivata e concedere esplicitamente ad altri i diritti di utilizzo, modifica e redistribuzione, aggiungi nel repository un file `LICENSE` con la licenza scelta dal titolare del progetto.
+## 📄 Licenza e riuso
 
-Per proporre miglioramenti, apri una **Issue** o una **Pull request** nel repository che ospita l'applicazione. Sono particolarmente utili segnalazioni su accessibilità, chiarezza dei casi, compatibilità con i browser e nuove situazioni d'uso.
+Puoi usare, copiare, modificare e condividere questo progetto, anche per attività formative, professionali e commerciali, senza chiedere un’autorizzazione preventiva.
 
-## Risorse collegate
+Salvo diversa indicazione, il codice è distribuito con licenza [MIT](https://opensource.org/license/mit), mentre i testi e i materiali didattici sono distribuiti con licenza [Creative Commons Attribuzione 4.0 Internazionale](https://creativecommons.org/licenses/by/4.0/deed.it).
 
-Se questi materiali ti sono utili, puoi seguire anche il resto del lavoro che faccio su AI generativa e divulgazione:
+Nel riuso, conserva gli avvisi previsti dalla licenza MIT; per testi e materiali didattici, cita **Gianluigi Cogo**, inserisci un collegamento al progetto originale e alla licenza e indica eventuali modifiche. Gli eventuali materiali di terzi mantengono le rispettive licenze.
 
-- **Newsletter** – https://gigicogo.substack.com - approfondimenti, casi d’uso e strumenti su AI generativa e content creation.  
-- **Articoli** – https://webeconoscenza.gigicogo.it - guide e riflessioni su Medium / blog, con esempi pratici di utilizzo delle skill.  
-- **Video e podcast** – https://www.youtube.com/@gigicogo - Guide, interviste e tutorial su IA Generativa.
+## 👤 Autore e contesto
 
+**Gianluigi Cogo** — Content creator e technical writer interessato ad AI generativa, automazioni, viaggi e strumenti digitali. Consulente e docente sui temi dell’IA generativa, dell’innovazione e della comunicazione.
 
+- 📮 Newsletter: [gigicogo.substack.com](https://gigicogo.substack.com)
+- 📝 Blog: [medium.com/webeconoscenza](https://medium.com/webeconoscenza)
+- ▶️ YouTube: [youtube.com/@gigicogo](https://www.youtube.com/@gigicogo)
+- 💼 LinkedIn: [linkedin.com/in/gigicogo](https://it.linkedin.com/in/gigicogo)
